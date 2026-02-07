@@ -1,0 +1,9 @@
+{
+"description": "A universal object graph, queryable by path, and designed to allow setting boundaries",
+"devDependencies": {
+"zshy": "^0.7.0"
+},
+"name": "@portal-solutions/upath",
+"type": "module",
+"workspaces": []
+}
